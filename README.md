@@ -6,7 +6,7 @@
 ## [FR] Description:
 - TPs en architecture des micro-ordinateurs (écrits en VHDL et asm x86).
 
-## Author / Auteur:
+## Authors / Auteurs:
 - Charles De Lafontaine
 - Geneviève Pelletier-Mc Duff
 
